@@ -4,7 +4,7 @@
   "description": "Fork, Commit, Merge - Electron - Easy Issue",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "node api.js && electron ."
   },
   "keywords": [],
   "author": "",
